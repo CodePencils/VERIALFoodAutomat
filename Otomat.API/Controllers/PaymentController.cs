@@ -25,6 +25,7 @@ namespace Otomat.API.Controllers
         [Route("buy")]
         public IActionResult Put(ByProductDto product)
         {
+            if (product.Product.Id <= 0 && product.Product.Id > 30) BadRequest("Ürün bulunamadı !");
             var receipt = _paymentService.Buy(product);
             return receipt != null ? Ok(receipt) : BadRequest("İşlem Başarısız");
         }
