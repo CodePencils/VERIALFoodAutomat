@@ -1,0 +1,22 @@
+[
+  {
+    "Id": 1,
+    "Name": "Kredi Kartı",
+    "Refund": false
+  },
+  {
+    "Id": 2,
+    "Name": "Temassız Kredi Kartı",
+    "Refund": false
+  },
+  {
+    "Id": 3,
+    "Name": "Bozuk Para",
+    "Refund": true
+  },
+  {
+    "Id": 4,
+    "Name": "Nakit",
+    "Refund": true
+  }
+]

@@ -1,0 +1,282 @@
+[
+  {
+    "Id": 1,
+    "Price": 2,
+    "Quantity": 0,
+    "Name": "Çay",
+    "ProductType": {
+      "DrinkOption": 1,
+      "Name": "İçecek"
+    }
+  },
+  {
+    "Id": 2,
+    "Name": "Kahve",
+    "Price": 3,
+    "Quantity": 0,
+    "ProductType": {
+      "DrinkOption": 1,
+      "Name": "İçecek"
+    }
+  },
+  {
+    "Id": 3,
+    "Name": "Kola",
+    "Price": 4,
+    "Quantity": 0,
+    "ProductType": {
+      "DrinkOption": 2,
+      "Name": "İçecek"
+    }
+  },
+  {
+    "Id": 4,
+    "Name": "Sıcak Çikolata",
+    "Price" : 5,
+    "Quantity": 0,
+    "ProductType": {
+      "DrinkOption": 1,
+      "Name": "İçecek"
+    }
+  },
+  {
+    "Id": 5,
+    "Name": "Türk Kahvesi",
+    "Price": 5,
+    "Quantity": 0,
+    "ProductType": {
+      "DrinkOption": 1,
+      "Name": "İçecek"
+    }
+  },
+  {
+    "Id": 6,
+    "Name": "Ayran",
+    "Price": 2,
+    "Quantity": 0,
+    "ProductType": {
+      "DrinkOption": 2,
+      "Name": "İçecek"
+    }
+  },
+  {
+    "Id": 7,
+    "Name": "Su",
+    "Price": 1,
+    "Quantity": 0,
+    "ProductType": {
+      "DrinkOption": 2,
+      "Name": "İçecek"
+    }
+  },
+  {
+    "Id": 8,
+    "Name": "Vişne Suyu",
+    "Price": 3,
+    "Quantity": 0,
+    "ProductType": {
+      "DrinkOption": 2,
+      "Name": "İçecek"
+    }
+  },
+  {
+    "Id": 9,
+    "Name": "Soğuk Kahve",
+    "Price": 5,
+    "Quantity": 0,
+    "ProductType": {
+      "DrinkOption": 2,
+      "Name": "İçecek"
+    }
+  },
+  {
+    "Id": 10,
+    "Name": "Muzlu Süt",
+    "Price": 3,
+    "Quantity": 0,
+    "ProductType": {
+      "DrinkOption": 1,
+      "Name": "İçecek"
+    }
+  },
+  {
+    "Id": 11,
+    "Name": "Soğuk Peynirli Sandviç",
+    "Price": 12,
+    "Quantity": 0,
+    "ProductType": {
+      "Name": "Yiyecek"
+    }
+  },
+  {
+    "Id": 12,
+    "Name": "Soğuk Tombalıklı Sandviç",
+    "Price": 15,
+    "Quantity": 0,
+    "ProductType": {
+      "Name": "Yiyecek"
+    }
+  },
+  {
+    "Id": 13,
+    "Name": "Noodle Makarna",
+    "Price": 8,
+    "Quantity": 0,
+    "ProductType": {
+      "Name": "Yiyecek"
+    }
+  },
+  {
+    "Id": 14,
+    "Name": "Supangle",
+    "Price": 7,
+    "Quantity": 0,
+    "ProductType": {
+      "Name": "Yiyecek"
+    }
+  },
+  {
+    "Id": 15,
+    "Name": "Puding",
+    "Price": 5,
+    "Quantity": 0,
+    "ProductType": {
+      "Name": "Yiyecek"
+    }
+  },
+  {
+    "Id": 16,
+    "Name": "Tavuklu Salata",
+    "Price": 10,
+    "Quantity": 0,
+    "ProductType": {
+      "Name": "Yiyecek"
+    }
+  },
+  {
+    "Id": 17,
+    "Name": "Yaprak Sarması",
+    "Price": 15,
+    "Quantity": 0,
+    "ProductType": {
+      "Name": "Yiyecek"
+    }
+  },
+  {
+    "Id": 18,
+    "Name": "Çiğ Köfte Dürüm",
+    "Price": 6,
+    "Quantity": 0,
+    "ProductType": {
+      "Name": "Yiyecek"
+    }
+  },
+  {
+    "Id": 19,
+    "Name": "Sezar Salata",
+    "Price": 9,
+    "Quantity": 0,
+    "ProductType": {
+      "Name": "Yiyecek"
+    }
+  },
+  {
+    "Id": 20,
+    "Name": "Kahvaltı Tabağı",
+    "Price": 15,
+    "Quantity": 0,
+    "ProductType": {
+      "Name": "Yiyecek"
+    }
+  },
+  {
+    "Id": 21,
+    "Name": "Köfte Ekmek",
+    "Price": 12,
+    "Quantity": 0,
+    "ProductType": {
+      "Name": "Yiyecek"
+    }
+  },
+  {
+    "Id": 22,
+    "Name": "Spagetti Makarna",
+    "Price": 10,
+    "Quantity": 0,
+    "ProductType": {
+      "Name": "Yiyecek"
+    }
+  },
+  {
+    "Id": 23,
+    "Name": "Tavuk Döner",
+    "Price": 10,
+    "Quantity": 0,
+    "ProductType": {
+      "Name": "Yiyecek"
+    }
+  },
+  {
+    "Id": 24,
+    "Name": "Et Döner",
+    "Price": 20,
+    "Quantity": 0,
+    "ProductType": {
+      "Name": "Yiyecek" 
+    }
+  },
+  {
+    "Id": 25,
+    "Name": "Adana Dürüm",
+    "Price": 25,
+    "Quantity": 0,
+    "ProductType": {
+      "Name": "Yiyecek"
+    }
+  },
+  {
+    "Id": 26,
+    "Name": "Tavuk Şiş Dürüm",
+    "Price": 22,
+    "Quantity": 0,
+    "ProductType": {
+      "Name": "Yiyecek"
+    }
+  },
+  {
+    "Id": 27,
+    "Name": "Mantar Sote",
+    "Price": 10,
+    "Quantity": 0,
+    "ProductType": {
+      "Name": "Yiyecek"
+    }
+  },
+  {
+    "Id": 28,
+    "Name": "Künefe",
+    "Price": 15,
+    "Quantity": 0,
+    "ProductType": {
+      "Name": "Yiyecek"
+    }
+  },
+  {
+    "Id": 29,
+    "Name": "Baklava",
+    "Price": 20,
+    "Quantity": 0,
+    "ProductType": {
+      "Name": "Yiyecek"
+    }
+  },
+  {
+    "Id": 30,
+    "Name": "Tavuklu Pilav",
+    "Price": 12,
+    "Quantity": 0,
+    "ProductType": {
+      "Name": "Yiyecek"
+    }
+  }
+]
