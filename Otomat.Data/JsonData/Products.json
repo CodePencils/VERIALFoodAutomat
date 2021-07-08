@@ -32,7 +32,7 @@
   {
     "Id": 4,
     "Name": "Sıcak Çikolata",
-    "Price" : 5,
+    "Price": 5,
     "Quantity": 0,
     "ProductType": {
       "DrinkOption": 1,
@@ -95,13 +95,13 @@
     "Price": 3,
     "Quantity": 0,
     "ProductType": {
-      "DrinkOption": 1,
+      "DrinkOption": 2,
       "Name": "İçecek"
     }
   },
   {
     "Id": 11,
-    "Name": "Soğuk Peynirli Sandviç",
+    "Name": "Peynirli Sandviç",
     "Price": 12,
     "Quantity": 0,
     "ProductType": {
@@ -222,7 +222,7 @@
     "Price": 20,
     "Quantity": 0,
     "ProductType": {
-      "Name": "Yiyecek" 
+      "Name": "Yiyecek"
     }
   },
   {
