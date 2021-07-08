@@ -14,7 +14,7 @@ namespace Otomat.Business.Services
             products = _products;
         }
 
-
+       
         public List<ProductDto> GetList()
         { 
             return JsonConvert.DeserializeObject<List<ProductDto>>(products.Products()); 

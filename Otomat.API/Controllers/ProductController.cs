@@ -14,7 +14,7 @@ namespace Otomat.API.Controllers
         {
             _productService = productService;
         }
-
+        
         [HttpGet]  
         public IActionResult List()
         {
