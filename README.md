@@ -1,5 +1,5 @@
-########### SETUP ###########
+<h1>Otomat Project Setup</h1>
 
-1- Otamat.Data -> JsonSettings -> JsonFile -> FileDirectory = Your Size <br>
-2- Open Command -> CD Otomat.API -> dotnet run 
-3- Open Command -> CD Otmat.Web -> npm run serve
+1- Open Command -> cd Otomat.API -> dotnet run  <br>
+2- Open Command -> cd Otmat.Web -> npm run serve <br>
+3- Open Command -> cd Otomat.Integration.Test -> dotnet restore <br>
