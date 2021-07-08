@@ -9,6 +9,12 @@ namespace Otomat.Data.JsonSettings
 {
     public class JsonFile
     {
+        /// <summary>
+        /// <br></br>
+        /// JSON Data yolu
+        /// <br></br>
+        /// C:\Users\Emre\source\FoodAutomat\Otomat.Data\JsonData\
+        /// </summary>
         public static string FileDirectory = @"C:\Users\Emre\source\FoodAutomat\Otomat.Data\JsonData\";
     }
 }
